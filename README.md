@@ -12,4 +12,5 @@ Please contact me or submit "issues" in this repository, and I can help you in p
 
 
 ## Simulation Result
+![result1](https://user-images.githubusercontent.com/74077380/100154917-9fd17b00-2ebb-11eb-83e1-c8c5f9582054.png)
 
