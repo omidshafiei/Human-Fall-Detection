@@ -6,7 +6,6 @@ According to the aging of the baby boomers, providing an environment for the eld
 
 ## Source Code & Data
 * All source code are released in this repository.
-* You can download original images and result files from this [Link]().
 ## Try to do it
 Please contact me or submit "issues" in this repository, and I can help you in person
 
